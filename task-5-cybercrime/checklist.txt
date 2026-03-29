@@ -1,0 +1,20 @@
+Stay Safe Online: Cybersecurity Checklist for Students
+
+General Online Safety:
+- Always check the URL of a website before entering any personal information
+- Do not click on suspicious links in emails, SMS, or social media messages
+- Never share your passwords or OTPs with anyone
+- Use strong and unique passwords for different accounts
+- Enable Two-Factor Authentication (2FA) wherever possible
+- Avoid logging into sensitive accounts on public Wi-Fi networks
+- Keep your device and apps updated regularly to prevent security vulnerabilities
+
+UPI and Financial Safety:
+- Always verify the receiver’s UPI ID or name before sending money
+- Never approve unknown payment requests in UPI apps
+- Do not scan QR codes from untrusted sources
+- Banks or apps will never ask for your OTP or PIN, do not share it
+
+Reporting Cybercrime:
+- Report incidents at https://cybercrime.gov.in
+- Call the helpline: 1930 (24x7)
