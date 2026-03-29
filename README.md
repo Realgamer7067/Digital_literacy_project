@@ -20,27 +20,39 @@ This repository contains all tasks along with the final project report.
 digital-literacy-project/
 │
 ├── task-1-presentation/
+
 │   └── infographic.png
 │
 ├── task-2-portfolio/
+
 │   ├── github-profile.png
+
 │   ├── linkedin-profile.png
+
 │   └── kaggle-profile.png
 │
 ├── task-3-platforms/
+
 │   ├── hackerrank-completed.png
+
 │   ├── google-form.png
+
 │   └── responses-sheet.png
 │
 ├── task-4-email-etiquette/
+
 │   ├── emails.txt
+
 │   └── social-media-checklist.txt
 │
 ├── task-5-cybercrime/
+
 │   ├── casestudy.txt
+
 │   └── prevention-checklist.txt
 │
 └── report/
+
     └── Project_Report.pdf
 
 ---
