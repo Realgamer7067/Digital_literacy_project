@@ -18,11 +18,13 @@ This repository contains all tasks along with the final project report.
 ## Repository Structure
 
 digital-literacy-project/
+
 │
 ├── task-1-presentation/
 
 │   └── infographic.png
 │
+
 ├── task-2-portfolio/
 
 │   ├── github-profile.png
@@ -31,6 +33,7 @@ digital-literacy-project/
 
 │   └── kaggle-profile.png
 │
+
 ├── task-3-platforms/
 
 │   ├── hackerrank-completed.png
@@ -39,12 +42,14 @@ digital-literacy-project/
 
 │   └── responses-sheet.png
 │
+
 ├── task-4-email-etiquette/
 
 │   ├── emails.txt
 
 │   └── social-media-checklist.txt
 │
+
 ├── task-5-cybercrime/
 
 │   ├── casestudy.txt
